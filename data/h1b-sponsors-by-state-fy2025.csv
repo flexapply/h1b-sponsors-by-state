@@ -1,0 +1,53 @@
+state,state_code,sponsoring_companies,h1b_filings,top_sponsor,top_sponsor_h1b_filings,flexapply_location_url
+California,CA,2501,14645,Apple Inc.,1116,https://flexapply.org/sponsors/location/california/
+Texas,TX,3239,12664,INFOSYS LIMITED,294,https://flexapply.org/sponsors/location/texas/
+New York,NY,1449,6320,Amazon.com Services LLC,196,https://flexapply.org/sponsors/location/new-york/
+Washington,WA,635,5627,Amazon.com Services LLC,1454,https://flexapply.org/sponsors/location/washington/
+New Jersey,NJ,1193,3304,JPMorgan Chase & Co.,106,https://flexapply.org/sponsors/location/new-jersey/
+North Carolina,NC,973,3234,"Fidelity Technology Group, LLC d/b/a Fidelity Investments",201,https://flexapply.org/sponsors/location/north-carolina/
+Illinois,IL,922,3091,University of Illinois,137,https://flexapply.org/sponsors/location/illinois/
+Georgia,GA,890,2731,Emory University,84,https://flexapply.org/sponsors/location/georgia/
+Massachusetts,MA,731,2612,Harvard University,82,https://flexapply.org/sponsors/location/massachusetts/
+Florida,FL,779,2375,UNIVERSITY OF FLORIDA,131,https://flexapply.org/sponsors/location/florida/
+Michigan,MI,514,2103,University of Michigan,187,https://flexapply.org/sponsors/location/michigan/
+Pennsylvania,PA,622,1997,TRUSTEES OF THE UNIVERSITY OF PENNSYLVANIA,137,https://flexapply.org/sponsors/location/pennsylvania/
+Virginia,VA,671,1869,Virginia Polytechnic Institute & State University,84,https://flexapply.org/sponsors/location/virginia/
+Ohio,OH,485,1512,JPMorgan Chase & Co.,79,https://flexapply.org/sponsors/location/ohio/
+Arizona,AZ,405,1126,"American Express Travel Related Services Company, Inc.",92,https://flexapply.org/sponsors/location/arizona/
+Maryland,MD,321,997,Johns Hopkins University,145,https://flexapply.org/sponsors/location/maryland/
+Tennessee,TN,239,994,ST. JUDE CHILDREN'S RESEARCH HOSPITAL,102,https://flexapply.org/sponsors/location/tennessee/
+Indiana,IN,201,918,Cummins Inc.,145,https://flexapply.org/sponsors/location/indiana/
+Missouri,MO,241,868,Washington University,157,https://flexapply.org/sponsors/location/missouri/
+Minnesota,MN,266,851,Mayo Clinic,78,https://flexapply.org/sponsors/location/minnesota/
+Colorado,CO,246,789,University of Colorado Denver,94,https://flexapply.org/sponsors/location/colorado/
+Connecticut,CT,189,704,INFOSYS LIMITED,87,https://flexapply.org/sponsors/location/connecticut/
+Arkansas,AR,136,624,"WAL-MART ASSOCIATES, INC.",300,https://flexapply.org/sponsors/location/arkansas/
+Wisconsin,WI,150,489,University of Wisconsin System,118,https://flexapply.org/sponsors/location/wisconsin/
+Oregon,OR,134,445,Intel Corporation,98,https://flexapply.org/sponsors/location/oregon/
+South Carolina,SC,158,439,LPL Financial LLC,22,https://flexapply.org/sponsors/location/south-carolina/
+Utah,UT,115,380,University of Utah,52,https://flexapply.org/sponsors/location/utah/
+Washington DC,DC,142,359,DISTRICT OF COLUMBIA PUBLIC SCHOOLS,51,https://flexapply.org/sponsors/location/washington-dc/
+Iowa,IA,105,329,The University of Iowa,63,https://flexapply.org/sponsors/location/iowa/
+Delaware,DE,107,316,JPMorgan Chase & Co.,77,https://flexapply.org/sponsors/location/delaware/
+Alabama,AL,75,306,The University of Alabama at Birmingham,96,https://flexapply.org/sponsors/location/alabama/
+Kentucky,KY,101,272,Humana Inc.,31,https://flexapply.org/sponsors/location/kentucky/
+Louisiana,LA,49,260,Louisiana State University and A&M College,34,https://flexapply.org/sponsors/location/louisiana/
+Kansas,KS,114,256,WICHITA STATE UNIVERSITY,21,https://flexapply.org/sponsors/location/kansas/
+Nebraska,NE,88,241,Board of Regents of the University of Nebraska,44,https://flexapply.org/sponsors/location/nebraska/
+Nevada,NV,90,230,"University of Nevada, Reno",31,https://flexapply.org/sponsors/location/nevada/
+New Hampshire,NH,73,226,"Fidelity Technology Group, LLC d/b/a Fidelity Investments",38,https://flexapply.org/sponsors/location/new-hampshire/
+Rhode Island,RI,63,195,CVS Pharmacy Inc.,29,https://flexapply.org/sponsors/location/rhode-island/
+Oklahoma,OK,67,190,University of Oklahoma,38,https://flexapply.org/sponsors/location/oklahoma/
+New Mexico,NM,45,187,"Triad National Security, LLC",28,https://flexapply.org/sponsors/location/new-mexico/
+Mississippi,MS,38,153,Jackson Public School District,26,https://flexapply.org/sponsors/location/mississippi/
+West Virginia,WV,16,145,West Virginia University,49,https://flexapply.org/sponsors/location/west-virginia/
+Idaho,ID,27,131,"Micron Technology, Inc.",36,https://flexapply.org/sponsors/location/idaho/
+North Dakota,ND,24,91,Three Affiliated Tribes Head Start,16,https://flexapply.org/sponsors/location/north-dakota/
+Maine,ME,29,73,"IDEXX Laboratories, Inc.",7,https://flexapply.org/sponsors/location/maine/
+South Dakota,SD,17,72,South Dakota State University,15,https://flexapply.org/sponsors/location/south-dakota/
+Hawaii,HI,16,67,University of Hawaii,26,https://flexapply.org/sponsors/location/hawaii/
+Alaska,AK,9,59,Bering Strait School District,16,https://flexapply.org/sponsors/location/alaska/
+Vermont,VT,12,44,The University of Vermont,14,https://flexapply.org/sponsors/location/vermont/
+Montana,MT,15,34,Montana State University,5,https://flexapply.org/sponsors/location/montana/
+Wyoming,WY,5,15,University of Wyoming,9,https://flexapply.org/sponsors/location/wyoming/
+Puerto Rico,PR,5,10,"Universidad Politecnica de Puerto Rico, Inc.",3,https://flexapply.org/sponsors/location/puerto-rico/
