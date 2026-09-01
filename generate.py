@@ -173,6 +173,11 @@ the employer reported. A company that hires in several states is counted in each
 
 Yes. The data is public and this list is free to use, fork, and share.
 
+## Related
+
+- [Companies That Sponsor H-1B Visas](https://github.com/flexapply/companies-that-sponsor-h1b):
+  the full ranked list of all {total_companies:,} sponsoring employers, same {FY} DOL source.
+
 ## About the data
 
 Source: U.S. DOL LCA Disclosure Data {FY} Q4 (the full-year file). Counts are certified
